@@ -14,6 +14,7 @@
 		605C8A9E2BE0CC8C0058A644 /* WeSplitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605C8A9D2BE0CC8C0058A644 /* WeSplitTests.swift */; };
 		605C8AA82BE0CC8C0058A644 /* WeSplitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605C8AA72BE0CC8C0058A644 /* WeSplitUITests.swift */; };
 		605C8AAA2BE0CC8C0058A644 /* WeSplitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605C8AA92BE0CC8C0058A644 /* WeSplitUITestsLaunchTests.swift */; };
+		605C8AB72BE0CF1F0058A644 /* TitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605C8AB62BE0CF1F0058A644 /* TitleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		605C8AA32BE0CC8C0058A644 /* WeSplitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeSplitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		605C8AA72BE0CC8C0058A644 /* WeSplitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitUITests.swift; sourceTree = "<group>"; };
 		605C8AA92BE0CC8C0058A644 /* WeSplitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		605C8AB62BE0CF1F0058A644 /* TitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 		605C8A8B2BE0CC8B0058A644 /* WeSplit */ = {
 			isa = PBXGroup;
 			children = (
+				605C8AB62BE0CF1F0058A644 /* TitleView.swift */,
 				605C8A8C2BE0CC8B0058A644 /* WeSplitApp.swift */,
 				605C8A8E2BE0CC8B0058A644 /* ContentView.swift */,
 				605C8A902BE0CC8C0058A644 /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			files = (
 				605C8A8F2BE0CC8B0058A644 /* ContentView.swift in Sources */,
 				605C8A8D2BE0CC8B0058A644 /* WeSplitApp.swift in Sources */,
+				605C8AB72BE0CF1F0058A644 /* TitleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
