@@ -84,6 +84,10 @@ struct ContentView: View {
     }
 }
 
+struct Person {
+    let name: String = "bibek"
+}
+
 #Preview {
     ContentView()
 }
