@@ -6,5 +6,9 @@
 ## 100 Days of Swift 
 
 
-https://github.com/SigmaZardan/WeSplit/assets/94971168/311886f1-9a40-499a-b963-e4fbae768eff
+
+
+
+https://github.com/SigmaZardan/WeSplit/assets/94971168/5ef309e7-922d-48b5-bf10-82ba532ba13a
+
 
